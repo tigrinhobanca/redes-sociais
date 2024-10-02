@@ -2,4 +2,6 @@ body {
     background-color: violet;
     color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+    margin: 0;
 }
