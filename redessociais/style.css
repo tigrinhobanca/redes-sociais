@@ -1,3 +1,5 @@
 body {
-    background-color: violet
+    background-color: violet;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
 }
